@@ -3,7 +3,9 @@
 ### This file explains how run_analysus.R works
 
 The Samsung data should be in the working directory
+
 The R code is commented step by step. 
+
 These are the differents steps that it follows:
 
 ## 1. Read data, combine them and add descriptive names
